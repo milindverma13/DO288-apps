@@ -15,7 +15,7 @@ cp -Rf /tmp/src/*.html ./
 
 DATE=`date "+%F"`
 
-echo "---> Creating info page"
+echo "---> Creating INFO page"
 echo "Page built on $DATE" >> ./info.html
 
 
